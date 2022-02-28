@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlong98, or Justin Long
 - 👀 I’m interested in Java Full-Stack Development.
-- 🌱 I’m currently learning Javascript / Postgres SQL
+- 🌱 I’m currently learning Javascript / Postgres SQL / Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: longjustin1998@gmail.com
 
