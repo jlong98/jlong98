@@ -14,7 +14,7 @@
 
 ### :man_technologist: About Me :
 - 👋 Hi, I’m @jlong98, or Justin Long
-- 💻 I am looking to be a Full Stack Developer from Wilmington, DE.
+- 💻 I am currently a Software Engineer for JPMorgan Chase from Wilmington, DE.
 - 🌱 I’m currently learning Javascript / Postgres SQL / Java
 - 📫 How to reach me: longjustin1998@gmail.com
 
